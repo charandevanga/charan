@@ -1,0 +1,45 @@
+	what is HTML?
+		hmtl is a markup language that defines the structure of your content. html consists of a series of elements, which you to enclose ,or wrap,different parts of the content to make it appear a certain way, 
+		Example
+	<!DOCTYPE HTML>
+		<html>
+		<head>
+		<title>Page Title</title>
+		</head>
+		<body>
+
+		<h1>This is a Heading</h1>
+		<p>This is a paragraph.</p>
+
+	</body>
+	</html>
+	
+	what is doctype?
+		The DOCTYPE  is an instruction to the web browser about what version of HTML the page is written in. This ensures that the web page is parsed the same way by different web browsers.		
+	<HTML> 
+		element is the root element of an HTML page
+	<head> 
+		element contains meta information about the HTML page.
+		
+	<title> 
+		element specifies a title for the HTML page. which is shown in the browser's title bar.
+		
+	<body>
+		element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images,etc.
+	<headings> 	
+		element defines a large heading from h1 to h6, it can shows by various size.
+	<paragraph> 
+	     element defines a gap between paragraphs.
+		 
+	HTML Element?	 
+		 An HTML element is defined by a start tag, some content.
+                    Synntax: <element name> content</element name>
+					
+    HTML Tags HTML tags are the hidden keywords within a web page that define how your web browser must format and display the content.
+       Syntax: open tagg < > and close tag </>.
+
+    What is Web Browser?
+		A web browser is application software for accessing.
+		The web browser retrieves the necessary content from a web server and then displays the page on the user's device.
+
+
